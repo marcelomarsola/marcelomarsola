@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **Player bass and acoustic guitar.**
 
+- 🔍 More about-me: https://www.linkedin.com/in/marcelomirandamarsola/
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelomarsola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomarsola&layout=compact&langs_count=16&theme=dark"/>
