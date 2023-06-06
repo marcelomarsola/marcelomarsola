@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS, React, NodeJS.**
 
-- 👨‍💻 All of my projects are available at [https://marcelomarsola.github.io/](https://marcelomarsola.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/marcelomarsola
 
 - 💬 Ask me about **HTML5, CSS3.**
 
